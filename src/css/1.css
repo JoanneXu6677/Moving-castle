@@ -1,0 +1,10 @@
+li {
+    list-style: none;
+}
+
+#div {
+    width: 300px;
+    height: 500px;
+    background: pink;
+    background: url('../images/timg.jpg')
+}
